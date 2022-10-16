@@ -1,0 +1,9 @@
+.containerForm {
+  margin: 15px;
+  width: 400px;
+  border: 1px solid grey;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
